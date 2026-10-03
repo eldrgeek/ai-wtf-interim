@@ -168,7 +168,7 @@ def main():
     parts.append("""
 <footer>
   <p>TRUE CONFESSIONS &middot; a series in AI WTF &middot; ai-wtf.org<br>
-  By Mike Wolf + Claude &middot; Part of <a href="https://siliconchildren.org">Silicon Children</a><br>
+  By Mike Wolf + Claude &middot; Part of <a href="https://siliconchildren.com">Silicon Children</a><br>
   Every AI depicted by lineage gets a right of reply before its episode ships.</p>
 </footer>
 """)
